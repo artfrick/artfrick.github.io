@@ -79,25 +79,25 @@ p a:hover {
     background-color: #FFFFFF;
 }
 
-.30px{
+span.30px{
     font-size: 30px;
 }
-.40px{
+span.40px{
     font-size: 40px;   
 }
-.50px{
+span.50px{
     font-size: 50px;   
 }
-.72px{
+span.72px{
     font-size: 72px;   
 }
-.mainParagraph .100px{
+span.100px{
     font-size: 100px;   
 }
-.120px{
+span.120px{
     font-size: 120px;   
 }
-.150px{
+span.150px{
     font-size: 150px;   
 }
 
