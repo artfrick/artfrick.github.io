@@ -70,35 +70,59 @@ p a:hover {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #000000;    
+    background-color: #FFFF66;    
 }
 .navbar-default .navbar-toggle {
-    border-color: #000000;
+ 
+    background-color: #000000;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #FFFFFF;
+    background-color: #222222;
 }
 
-span.30px{
+/* Sarcastic font usage */
+.thirty{
     font-size: 30px;
 }
-span.40px{
+.fourty{
     font-size: 40px;   
 }
-span.50px{
+.fifty{
     font-size: 50px;   
 }
-span.72px{
+.seventyTwo{
     font-size: 72px;   
 }
-span.100px{
+.oneHundred{
     font-size: 100px;   
 }
-span.120px{
+.oneHundredTwenty{
     font-size: 120px;   
 }
-span.150px{
+.oneHundredFifty{
     font-size: 150px;   
 }
-
-
+/* Sarcastic font usage for small viewport */
+@media (max-width: 768px) {
+.thirty{
+    font-size: 15px;
+}
+.fourty{
+    font-size: 20px;   
+}
+.fifty{
+    font-size: 25px;   
+}
+.seventyTwo{
+    font-size: 36px;   
+}
+.oneHundred{
+    font-size: 50px;   
+}
+.oneHundredTwenty{
+    font-size: 60px;   
+}
+.oneHundredFifty{
+    font-size: 75px;   
+}
+}
