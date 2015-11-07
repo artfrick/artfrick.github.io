@@ -1,0 +1,67 @@
+body {
+    font-family: 'Luckiest+Guy', sans-serif;
+    position: relative;
+    background-color: #FFFF66;
+    color: #000000;
+}
+p {
+    font-size: 16px;
+}
+p a {
+    text-decoration: underline;
+    color: #000000;
+}
+p a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+.mainParagraph {
+    line-height: 72px;
+    margin-top: 30px;
+}
+/* Sarcastic font usage */
+.thirty{
+    font-size: 30px;
+}
+.fourty{
+    font-size: 40px;   
+}
+.fifty{
+    font-size: 50px;   
+}
+.seventyTwo{
+    font-size: 72px;   
+}
+.oneHundred{
+    font-size: 100px;   
+}
+.oneHundredTwenty{
+    font-size: 120px;   
+}
+.oneHundredFifty{
+    font-size: 150px;   
+}
+/* Sarcastic font usage for small viewport */
+@media (max-width: 768px) {
+    .thirty{
+        font-size: 15px;
+    }
+    .fourty{
+        font-size: 20px;   
+    }
+    .fifty{
+        font-size: 25px;   
+    }
+    .seventyTwo{
+        font-size: 36px;   
+    }
+    .oneHundred{
+        font-size: 50px;   
+    }
+    .oneHundredTwenty{
+        font-size: 60px;   
+    }
+    .oneHundredFifty{
+        font-size: 75px;   
+    }
+}
