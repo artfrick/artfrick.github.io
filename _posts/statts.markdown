@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2013-02-15
 img: statts.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-clienturl: http://www.hundredacresnyc.com
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+alt: Disability Compendium
+project-date: February 2013
+client: Disability Compendium
+clienturl: http://disabilitycompendium.org/
+category: Web Design and Development
+description: Art designed this site from the ground up. It's designed to be accessible and effecient with emphasis being placed on the downloading of the statistical data that is published annually.
 
 ---

@@ -4,10 +4,10 @@ modal-id: 2
 date: 2014-07-17
 img: intranet.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-clienturl: http://www.hundredacresnyc.com
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: September 2014
+client: Institute on Disability
+clienturl: http://iodintranet.unh.edu
+category: Web Design and Development
+description: Art was tasked with developing an intranet for the employees of the Institute on Disability. The IODIntranet is used by employees every day to exchange messages, post news and events, share documents, and collaborate. This site was developed in Drupal, and utilizes several technologies in integrate with the University of New Hampshire to provide Secure Sign-On, Automatic Account Creation, AD Integration, and APACHE SOLR search. Unfortunately, if you're not a staff member of the IOD, you can't see how truly awesome it is!
 
 ---

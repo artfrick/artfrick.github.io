@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-07-12
+date: 2012-10-16
 img: iod.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-clienturl: http://www.hundredacresnyc.com
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: October 2012
+client: Institute on Disability
+clienturl: http://www.iod.unh.edu
+category: Web Design and Development
+description: Art has provided support, new feature develpoment, and incremental improvements to this site for the last several years. A new version, being developed in Drupal is currently in development.
 
 ---

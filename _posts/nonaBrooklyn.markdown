@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2012-07-14
 img: nonaBrooklyn.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-clienturl: http://www.hundredacresnyc.com
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+alt: Nona Brooklyn
+project-date: July 2012
+client: Nona Brooklyn
+clienturl: http://nonabrooklyn.com/
+category: Project Management
+description: Art was the project manager of this website. He interfaced with the project stakeholders and worked with a team of developers to get this site finished efficiently, on-time, and in budget.
 
 ---
