@@ -32,9 +32,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-	url:http://www.facebook.com/artfrick
+	url: http://www.facebook.com/artfrick
   - title: github
-    url:http://github.com/artfrick
+    url: http://github.com/artfrick
 
 # Postal address (add as many lines as necessary)
 address:
