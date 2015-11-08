@@ -17,10 +17,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 230035 #80B3FF
+  primary-rgb: "35,0,53" #"128,179,255"
+  secondary: 12374C #FD6E8A
+  secondary-dark: 210033 #A2122F
 
 # Footer settings
 footer:
@@ -41,7 +41,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Mamaroneck, New York
-  - line: Located in Westchester - The BEST chester
+  - line: in Westchester - The BEST chester
 
 # Credits content
 credits: 'This site is based off a theme by <a href="https://github.com/jeromelachaud" target="_blank">jeromelachaud</a>, powered by <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted on <a href="http://github.com" target="_blank">Github</a>'
