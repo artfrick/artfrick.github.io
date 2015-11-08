@@ -37,7 +37,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: drupal
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
@@ -48,7 +48,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site is based off a theme by <a href="https://github.com/jeromelachaud" target="_blank">jeromelachaud</a>, powered by <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted on <a href="http://github.com" target="_blank">Github</a>'
 
 # Build settings
 markdown: kramdown
