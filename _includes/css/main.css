@@ -474,3 +474,10 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
     border-color: #{{ site.color.secondary-dark }};
 }
+
+.siteCredLinks a{
+    text-decoration: underline;
+}
+.siteCredLinks a:hover{
+    color: #{{ site.color.primary }};
+}
