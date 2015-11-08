@@ -15,7 +15,11 @@ p.small {
     font-size: 16px;
 }
 
-a,
+a {
+    outline: 0;
+    color: #FFFFFF;
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -24,6 +28,7 @@ a.active {
     color: #FFFFFF;
     text-decoration: underline;
 }
+
 
 h1,
 h2,
