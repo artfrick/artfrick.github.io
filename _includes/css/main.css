@@ -168,7 +168,10 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
 }
-
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
 section {
     padding: 100px 0;
 }
