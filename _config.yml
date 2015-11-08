@@ -17,10 +17,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 335676 #80B3FF
-  primary-rgb: "51,86,118" #"128,179,255"
-  secondary: 7a4d00 #FD6E8A
-  secondary-dark: 1e1300 #A2122F
+  primary: B200FD #80B3FF
+  primary-rgb: "178,0,253" #"128,179,255"
+  secondary: 00AA00 #FD6E8A
+  secondary-dark: 170021 #A2122F
 
 # Footer settings
 footer:
