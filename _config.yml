@@ -1,10 +1,10 @@
 # Site settings
 title:Art Frick
-email: artfrick@gmail.com
-url: http://www.artfrick.com
-description: "Art Frick is a web designer, developer, and online accessibility specialist in New York."
-skills: "Web Developer - Online Accessibility Specialist"
-meta_author: Frick Arthur
+email:artfrick@gmail.com
+url:http://www.artfrick.com
+description:"Art Frick is a web designer, developer, and online accessibility specialist in New York."
+skills:"Web Developer - Online Accessibility Specialist"
+meta_author:Frick Arthur
 
 # Google webmaster tools
 google_verify:
