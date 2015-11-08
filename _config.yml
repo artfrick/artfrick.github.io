@@ -21,7 +21,11 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> parent of e5899e3... colorz
 # Footer settings
 footer:
   copyright: Art Frick
