@@ -38,7 +38,7 @@ social:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: drupal
-    url: http://bitbucket.org/jekyll
+    url: http://drupal.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
