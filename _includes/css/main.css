@@ -454,3 +454,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Silly buttons on forms! */
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
+    background-color: {{ site.color.secondary-dark }};
+    border-color: {{ site.color.secondary-dark }};
+}
