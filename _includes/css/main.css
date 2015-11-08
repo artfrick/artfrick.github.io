@@ -457,6 +457,6 @@ footer .footer-below {
 
 /* Silly buttons on forms! */
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
-    background-color: {{ site.color.secondary-dark }};
-    border-color: {{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary-dark }};
+    border-color: #{{ site.color.secondary-dark }};
 }
