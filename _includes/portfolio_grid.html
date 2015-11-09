@@ -11,7 +11,7 @@
             <div class="row">
                 {% for post in site.posts %}
                     <div class="col-sm-3 portfolio-item">
-                      <p id="postClientNoTouch" class="visible-md visible-sm visible-xs" >{{ post.client }}</p>
+                      <a href="#portfolioModal-{{ post.modal-id }}"><p id="postClientNoTouch" class="visible-md visible-sm visible-xs" >{{ post.client }}</p></a>
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption visible-lg">
                                 <div class="caption-content">
