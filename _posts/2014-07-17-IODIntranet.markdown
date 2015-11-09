@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: intranet.png
-alt: image-alt
+alt: IOD Intranet
 project-date: September 2014
 client: Institute on Disability
 clienturl: http://iodintranet.unh.edu

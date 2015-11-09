@@ -3,7 +3,7 @@ layout: default
 modal-id: 7
 date: 2012-10-16
 img: iod.png
-alt: image-alt
+alt: Institute on Disability
 project-date: October 2012
 client: Institute on Disability
 clienturl: http://www.iod.unh.edu
