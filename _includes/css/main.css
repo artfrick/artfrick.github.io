@@ -265,6 +265,7 @@ section.success {
     text-align: center;
     height: 50px;
     text-decoration: underline;
+    padding-top: 20px;
 }
 
 @media(min-width:767px) {
