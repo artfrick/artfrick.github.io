@@ -263,9 +263,10 @@ section.success {
     color: #000000;
     z-index: 100;
     text-align: center;
-    height: 60px;
+    height: 70px;
     text-decoration: underline;
     padding-top: 15px;
+    margin-bottom: 0px;
 }
 
 @media(min-width:767px) {
