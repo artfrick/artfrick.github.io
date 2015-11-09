@@ -259,11 +259,18 @@ section.success {
     z-index: 2;
 }
 
+.postClientNoTouch {
+    display: none;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
-
+    .postClientNoTouch {
+        display: block;
+        color: #000000;
+    }
 }
 
 .btn-outline {
