@@ -505,7 +505,7 @@ footer .footer-below {
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
    color:    #909;
 }
-[type="search"] {
+[type="Name"] {
         -moz-appearance:    textfield;
         -webkit-appearance: textfield;
         appearance: textfield;
