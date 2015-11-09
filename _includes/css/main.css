@@ -206,10 +206,6 @@ section.success {
     section.first {
         padding-top: 75px;
     }
-    #portfolio .portfolio-item {
-        right: 0;
-        margin: 0 0 40px;
-    }
 }
 
 #portfolio .portfolio-item {
