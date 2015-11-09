@@ -494,3 +494,7 @@ footer .footer-below {
 .form-control:-moz-placeholder { color: #505050; }
 .form-control::-moz-placeholder { color: #505050; }
 .form-control:-ms-input-placeholder { color: #505050; }
+
+.close {
+    opacity: 0.8;
+}
