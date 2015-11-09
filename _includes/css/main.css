@@ -491,7 +491,7 @@ footer .footer-below {
     border-color: #{{ site.color.secondary-dark }};
 }
 
-.form-control::-webkit-input-placeholder { color: white; }
-.form-control:-moz-placeholder { color: white; }
-.form-control::-moz-placeholder { color: white; }
-.form-control:-ms-input-placeholder { color: white; }
+.form-control::-webkit-input-placeholder { color: #{{ site.color.secondary-dark }}; }
+.form-control:-moz-placeholder { color: #{{ site.color.secondary-dark }}; }
+.form-control::-moz-placeholder { color: #{{ site.color.secondary-dark }}; }
+.form-control:-ms-input-placeholder { color: #{{ site.color.secondary-dark }}; }
