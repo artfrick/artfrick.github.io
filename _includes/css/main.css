@@ -206,6 +206,10 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+    .postClientNoTouch {
+        display: block;
+        color: #000000;
+    }
 }
 
 #portfolio .portfolio-item {
@@ -266,10 +270,6 @@ section.success {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
-    }
-    .postClientNoTouch {
-        display: block;
-        color: #000000;
     }
 }
 
