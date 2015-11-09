@@ -431,6 +431,7 @@ footer .footer-below {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    opacity: .8;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -446,7 +447,6 @@ footer .footer-below {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    opacity: .8;
 }
 
 .portfolio-modal .close-modal .lr .rl {
