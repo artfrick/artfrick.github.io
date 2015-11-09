@@ -263,9 +263,9 @@ section.success {
     color: #000000;
     z-index: 100;
     text-align: center;
-    height: 50px;
+    height: 60px;
     text-decoration: underline;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 @media(min-width:767px) {
