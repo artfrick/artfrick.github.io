@@ -498,3 +498,11 @@ footer .footer-below {
 .close {
     opacity: 0.8;
 }
+
+/* fun colorz */
+::selection {
+  background: #a5008a; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #a5008a; /* Gecko Browsers */
+}
