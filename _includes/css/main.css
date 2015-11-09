@@ -490,3 +490,6 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
     border-color: #{{ site.color.secondary-dark }};
 }
+#name {
+    color: #000000 !important;
+}
