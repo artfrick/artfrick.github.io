@@ -490,6 +490,7 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
     border-color: #{{ site.color.secondary-dark }};
 }
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #909;
 }
@@ -504,3 +505,8 @@ footer .footer-below {
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
    color:    #909;
 }
+[type="search"] {
+        -moz-appearance:    textfield;
+        -webkit-appearance: textfield;
+        appearance: textfield;
+    }
