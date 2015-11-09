@@ -490,3 +490,8 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
     border-color: #{{ site.color.secondary-dark }};
 }
+
+.form-control::-webkit-input-placeholder { color: white; }
+.form-control:-moz-placeholder { color: white; }
+.form-control::-moz-placeholder { color: white; }
+.form-control:-ms-input-placeholder { color: white; }
