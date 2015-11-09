@@ -206,7 +206,7 @@ section.success {
     section.first {
         padding-top: 75px;
     }
-    .postClientNoTouch {
+    #portfolio .portfolio-item .portfolio-link .postClientNoTouch {
         display: block;
         color: #000000;
     }
@@ -263,7 +263,7 @@ section.success {
     z-index: 2;
 }
 
-.postClientNoTouch {
+#portfolio .portfolio-item .portfolio-link .postClientNoTouch {
     display: none;
 }
 
