@@ -12,6 +12,7 @@
                 {% for post in site.posts %}
                     <div class="col-sm-3 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <p>{{ post.client }}</p>
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>

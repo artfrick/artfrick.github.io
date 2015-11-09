@@ -206,9 +206,6 @@ section.success {
     section.first {
         padding-top: 75px;
     }
-    #portfolio .portfolio-item .portfolio-link .caption {
-    opacity: 1;
-    }
 }
 
 #portfolio .portfolio-item {
@@ -250,7 +247,7 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
+    margin-top: -30px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
@@ -266,6 +263,7 @@ section.success {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+
 }
 
 .btn-outline {
