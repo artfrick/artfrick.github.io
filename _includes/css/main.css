@@ -206,6 +206,9 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+    #postClientNoTouch {
+    display: block;
+    }
 }
 
 #portfolio .portfolio-item {
