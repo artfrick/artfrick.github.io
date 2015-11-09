@@ -490,7 +490,6 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
     border-color: #{{ site.color.secondary-dark }};
 }
-
 .form-control::-webkit-input-placeholder { color: #505050; }
 .form-control:-moz-placeholder { color: #505050; }
 .form-control::-moz-placeholder { color: #505050; }
