@@ -2,7 +2,7 @@ $(function() {
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
-        submitError: function($form, event, errors) {
+        submitError: function($form) {
             // additional error messages or events
         },
 
