@@ -518,12 +518,18 @@ footer .footer-below {
   background: #a5008a; /* Gecko Browsers */
 }
 
+/* make the spacing between title and content even, because I'm neurotic */
 #jFormSpacer {
     margin-bottom: -21px;
 }
-
 @media (max-width: 660px) {
     #jFormSpacer {
         margin-bottom: 0px;
     }
+}
+.star-light {
+    margin-bottom: 0px;
+}
+.star-primary{
+    margin-bottom: 0px;
 }
