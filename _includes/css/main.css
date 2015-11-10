@@ -519,11 +519,11 @@ footer .footer-below {
 }
 
 #jFormSpacer {
-    padding: 0px;
+    margin-bottom: -21px;
 }
 
 @media (max-width: 660px) {
     #jFormSpacer {
-        padding: 50px;
+        margin-bottom: 0px;
     }
 }
