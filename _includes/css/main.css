@@ -517,3 +517,13 @@ footer .footer-below {
 ::-moz-selection {
   background: #a5008a; /* Gecko Browsers */
 }
+
+#jFormSpacer {
+    padding: 0px;
+}
+
+@media (max-width: 660px) {
+    #jFormSpacer {
+        padding: 50px;
+    }
+}
