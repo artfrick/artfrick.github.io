@@ -43,7 +43,7 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-    margin: 25px auto 30px;
+    margin: 25px auto 50px;
     padding: 0;
     max-width: 250px;
     border: 0;
@@ -64,7 +64,6 @@ hr.star-primary:after {
 
 hr.star-light {
     border-color: #fff;
-    margin-bottom: 40px;
 }
 
 hr.star-light:after {
@@ -74,7 +73,6 @@ hr.star-light:after {
 
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
-    margin-bottom: 40px;
 }
 
 hr.star-primary:after {
@@ -528,7 +526,4 @@ footer .footer-below {
     #jFormSpacer {
         margin-bottom: 0px;
     }
-}
-
-    margin-bottom: 40px;
 }
