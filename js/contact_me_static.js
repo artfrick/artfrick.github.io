@@ -2,7 +2,7 @@ $(function() {
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
-        submitError: function($form) {
+        submitError: function($form, event, errors) {
             // additional error messages or events
         },
 
@@ -13,7 +13,7 @@ $(function() {
 
     $("a[data-toggle=\"tab\"]").click(function(e) {
         e.preventDefault();
-        $(this).tab("show");
+        $(this).tab("hide");
     });
 });
 
