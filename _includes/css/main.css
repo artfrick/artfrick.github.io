@@ -42,7 +42,8 @@ h6 {
 }
 
 hr.star-light,
-hr.star-primary {
+hr.star-primary,
+hr.star-black {
     margin: 25px auto 50px;
     padding: 0;
     max-width: 250px;
@@ -52,7 +53,8 @@ hr.star-primary {
 }
 
 hr.star-light:after,
-hr.star-primary:after {
+hr.star-primary:after,
+hr.star-black  {
     content: "\f006";
     display: inline-block;
     position: relative;
