@@ -54,7 +54,7 @@ hr.star-black {
 
 hr.star-light:after,
 hr.star-primary:after,
-hr.star-black  {
+hr.star-black:after  {
     content: "\f006";
     display: inline-block;
     position: relative;
