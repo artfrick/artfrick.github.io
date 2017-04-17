@@ -41,8 +41,7 @@ social:
     url: http://github.com/artfrick
 
 # Postal address (add as many lines as necessary)
-address:
-- line: Art lives in the greater NYC area and is reachable via email or the contact form above
+address: 'Art lives in the greater NYC area and is reachable via email or the contact form above.'
 
 # Credits content
 credits: 'This site is based off a theme by <a href="https://github.com/jeromelachaud" target="_blank">jeromelachaud</a>, powered by <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted on <a href="http://github.com" target="_blank">Github</a>.'
