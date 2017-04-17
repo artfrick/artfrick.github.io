@@ -2,8 +2,8 @@
 title: Art Frick
 email: artfrick@gmail.com
 url: http://www.artfrick.com
-description: "Art Frick is a web designer, developer, and online accessibility specialist in New York."
-skills: "Developer - Project Manager - Online Accessibility Specialist"
+description: "Art strives to make the world a better, more inclusive, more accessible place through the use of information technology, project management, and innovative and compassionate leadership."
+skills: "Management - Information Technology - Inclusion"
 meta_author: Frick Art
 
 # Google webmaster tools
@@ -32,7 +32,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: http://facebook.com/artfrick
+    url: http://facebook.com/artfrick  
+  - title: linkedin
+    url: http://www.linkedin.com/in/artfrick
+  - title: instagram
+    url: https://www.instagram.com/frickstock   
   - title: drupal
     url: http://www.drupal.org/u/artfrick
   - title: github
