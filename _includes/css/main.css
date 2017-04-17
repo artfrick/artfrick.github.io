@@ -539,3 +539,10 @@ footer .footer-below {
 .sectionTitle {
     margin-bottom: 0.3em;    
 }
+
+.contactLink a {
+    text-decoration: underline;
+}
+.contactLink a:hover {
+    color: #{{ site.color.primary }};
+}
