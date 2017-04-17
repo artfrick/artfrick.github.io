@@ -543,5 +543,5 @@ footer .footer-below {
     text-decoration: underline;
 }
 .contactLink a:hover{
-    color: #{{ site.color.primary }} !important;
+    color: #FF0000 !important;
 }
