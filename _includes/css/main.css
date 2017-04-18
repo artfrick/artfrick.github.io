@@ -8,11 +8,11 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 p.small {
-    font-size: 16px;
+    font-size: 12px;
 }
 
 a {
@@ -520,10 +520,10 @@ footer .footer-below {
 
 /* fun colorz */
 ::selection {
-  background: #a5008a; /* WebKit/Blink Browsers */
+  background: #74A3B6; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #a5008a; /* Gecko Browsers */
+  background: #74A3B6; /* Gecko Browsers */
 }
 
 /* make the spacing between title and content even, because I'm neurotic */
