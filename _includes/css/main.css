@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
 
@@ -110,7 +110,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 2em;
     font-weight: 700;
     padding-bottom: 14px;
@@ -162,7 +162,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     -webkit-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.3);
     -moz-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.3);
@@ -523,10 +523,10 @@ footer .footer-below {
 
 /* fun colorz */
 ::selection {
-  background: #74A3B6; /* WebKit/Blink Browsers */
+  background: #251A2D; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #74A3B6; /* Gecko Browsers */
+  background: #251A2D; /* Gecko Browsers */
 }
 
 /* make the spacing between title and content even, because I'm neurotic */
