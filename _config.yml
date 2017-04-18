@@ -3,7 +3,7 @@ title: Art Frick
 email: artfrick@gmail.com
 url: http://www.artfrick.com
 description: "Art strives to make the world a better, more inclusive, more accessible place through the use of information technology, project management, and innovative and compassionate leadership."
-skills: "Management - Information Technology - Accessibility"
+skills: "Information Technology - Accessibility - Management"
 meta_author: Frick Art
 
 # Google webmaster tools
@@ -26,8 +26,8 @@ color:
 footer:
   copyright: Art Frick
   location: Location
-  social: On the Web
-  credits: Credits
+  social: Art on the Web: 
+  credits: Thank you to: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
