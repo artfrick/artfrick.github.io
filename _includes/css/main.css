@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-weight: 700;
 }
 
@@ -110,7 +110,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-size: 2em;
     font-weight: 700;
     padding-bottom: 14px;
