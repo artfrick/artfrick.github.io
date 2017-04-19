@@ -145,6 +145,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
+        font-family: 'Abril Fatface', cursive;
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
