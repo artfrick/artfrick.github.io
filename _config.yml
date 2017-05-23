@@ -40,7 +40,7 @@ social:
   - title: github
     url: http://github.com/artfrick
 
-# Postal address (add as many lines as necessary)
+# Postal address (add as many lines as necessary, oy!)
 address:
 - line: 'Art lives in the greater NYC area and is reachable via the <a href="#contact" class="contactLink">contact form</a>.'
 
