@@ -2,7 +2,7 @@
 title: Art Frick
 email: artfrick@gmail.com
 url: http://www.artfrick.com
-description: "coming soon"
+description: "I am a project manager and developer based in Hudson, New York, with an MBA and a PMP certification."
 skills: "PMP, MBA"
 meta_author: Frick Art
 
@@ -26,8 +26,8 @@ color:
 footer:
   copyright: Art Frick
   location: Location
-  social: Visit Art on the Web!
-  credits: How is this made? 
+  social: Connect with me:
+  credits: How is this made:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,7 +45,7 @@ address:
 - line: 'Art lives in the NYC area and is reachable via social media.'
 
 # Credits content
-credits: 'This site is based off a theme by <a href="https://github.com/jeromelachaud" target="_blank">jeromelachaud</a>, powered by <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted on <a href="http://github.com" target="_blank">Github</a>.'
+credits: 'This site is based off a theme by <a href="https://github.com/jeromelachaud" target="_blank">jeromelachaud</a>, powered by <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted on <a href="http://github.com" target="_blank">Github</a>.'
 
 # Build settings
 markdown: kramdown
