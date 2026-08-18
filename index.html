@@ -1,103 +1,13 @@
+<!doctype html>
 <html>
-<head>
-	<meta charset="UTF-8">
-	<title>Art Frick, MBA PMP</title>
-	<meta content="#a1a7a1" name="theme-color" charset="UTF-8">
-	<meta name='viewport' content='width=device-width, initial-scale=1' />
-</head>
-<style>
-    :root {
-        --shadow:rgba(68,62,59,.6);
-        --fon:rgba(161,167,161,.5);
-        --bg:url("data:image/svg+xml,<svg width='64' height='64' viewBox='0 0 128 128' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='64' height='64' fill='rgba(255,255,255,.25)'/><rect x='64' y='64' width='64' height='64' fill='rgba(255,255,255,.5)'/></svg>") repeat 0 0;
-    }
-    ::selection {
-        background:#d08c4f;
-        color: #fff;
-    }
-    * {
-        font-family:sans-serif;
-        line-height: 24px;
-        color:#fff;
-        border-collapse:collapse;
-        border:none;
-        margin:0;
-        padding:0;
-        border-spacing:0px;
-        outline:none;
-        text-decoration:none;
-        overscroll-behavior: none;
-        box-sizing: border-box;
-        font-size:14px;
-        font-family:Arial;
-        -webkit-tap-highlight-color: transparent;
-    }
-    p, h1, .show_code {margin-bottom:20px;}
-    h1 {font-size:24px; padding: 20px;}
-    body {
-        background-color:#525e6d;
-        background-size: cover;
-        min-height:100vh;
-        width:100vw;
-        max-width:1024px;
-        min-width:400px;
-        margin:0px auto;
-        scrollbar-gutter: stable;
-    }
-    @supports selector(:has(*)){:not(:has(:target)) #about{display:block;}}
-    .page {
-        display:none;
-    }
-    .page:target {
-        display:block;
-        scroll-snap-align: start;
-        scroll-margin-top: 300px;
-    }
-    
-    .panel {
-        display:grid;
-        grid-template-columns:256px auto;
-        width:100%;
-        max-width:1024px;
-        min-width:800px;
-        background-color:var(--fon);
-        border-radius:16px;
-        box-shadow:0px 4px 25px var(--shadow);
-        backdrop-filter: blur(16px);
-        border-top:2px solid var(--light);
-        border-bottom:2px solid var(--light);
-        margin:42px 0px 128px 0px;
-    }
-    .content {
-        padding: 16px 16px 0px 16px;
-        position:relative;
-    }
-    .content:after{
-        z-index:-2;
-        content:"";
-        position:absolute;
-        left:0;top:12px;
-        display:block;
-        height:calc(100% - 24px);
-        width:100%;
-        border-left:1px solid var(--light);
-    }
-
-
-</style>
-<body>
-    <div style="display:flex;align-items: center;justify-content:center;width:100%;"><h1>Art Frick, MBA PMP</h1></div>
-    <!-- content pages -->
-		<div class="content">
-            <!-- about -->
-            <div class="page" id="about">
-                <p>Hi, I'm Art.</p>
-                <p>I am a project manager and developer based in Hudson, New York, with an MBA  and a PMP certification. Throughout my career, I have managed multi-million dollar portfolios, built PMOs, and led AI adoption efforts.</p>
-                <p>Having worked across both small agile shops and massive organizations, including Hinge, Cameo, Profound Logic, and the New York State Office of the Attorney General, I'm at home wherever there are great people doing amazing things.</p>
-                <p>I think the value of project and program management is all about communication, unblocking people, and enabling great work to be done.</p>
-            </div>
-        </div>    
-    </div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  <body>
+    <h1 class="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+  </body>
 </html>
-             
